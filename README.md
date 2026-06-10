@@ -1,1 +1,69 @@
-#aleenaaaaaa.html
+!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+</head>
+<body>
+
+    <h1>aleena philo varghese</h1>
+    <p>| Student |</p>
+
+    <hr>
+
+    <h2>About Me</h2>
+    <p>
+        Hello! My name is aleena philo varghese. I am passionate about web development
+        and creating simple, user-friendly websites.I want to purse my higher studies in AI&DS
+        and want to work as a fontend developer
+    </p>
+
+    <hr>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Python</li>
+    </ul>
+
+    <hr>
+
+    <h2>Projects</h2>
+
+    <h3>copra dryer during rainy season</h3>
+    <P>This solar copra dryer works by using sunlight to heat air and dry coconut pieces even in rainy season
+        .The solar collector
+        .A solar-powered fan pushes this hot air into the chamber
+        .cocounut pieces loses its moisture as hot air passes
+        .chimmney removes moist air</P>
+    
+
+    <hr>
+
+    <h2>Education</h2>
+    <table border="1">
+        <tr>
+            <th>Year</th>
+            <th>Qualification</th>
+            <th>Institution</th>
+        </tr>
+        <tr>
+            <td>2025-2029</td>
+            <td>electronics and instrumentation engineering</td>
+            <td>federal institute of science and technology</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <h2>Contact</h2>
+    <p>Email: aleenaphilovarghese@email.com</p>
+    <p>Phone: +91 9876543210</p>
+
+    <hr>
+
+    
+
+</body>
+</html>
